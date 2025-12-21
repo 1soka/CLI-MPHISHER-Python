@@ -1,2 +1,7 @@
-site/* linguist-vendored
+site/** linguist-vendored
+
+*.py linguist-detectable=true
 *.py linguist-language=Python
+
+*.html linguist-vendored
+*.css linguist-vendored
