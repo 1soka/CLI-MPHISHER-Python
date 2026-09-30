@@ -37,7 +37,7 @@ Ngrok account (free)
 Steps
 bash# Clone the repository
 ```
-git clone https://github.com/Blackholeisoka/mphisher.git
+git clone https://github.com/1soka/mphisher.git
 cd mphisher
 ```
 # Install dependencies
